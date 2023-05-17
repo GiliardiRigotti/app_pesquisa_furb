@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "811854327889",
+    "project_id": "helpdesk-1ff3d",
+    "storage_bucket": "helpdesk-1ff3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811854327889:android:3eaca0062f3f0a91508870",
+        "android_client_info": {
+          "package_name": "com.example.app_pesquisa_furb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811854327889-melkk8mbe3cb8fdgjb3muinlshtc8tp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmswhEHNCTvaQLyP-ClLtIfK5OuSGLWuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811854327889-melkk8mbe3cb8fdgjb3muinlshtc8tp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811854327889-f2pnlv2079cago46f5vbnrl45t6bmvi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appPesquisaFurb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811854327889:android:a0868e8d23841b74508870",
+        "android_client_info": {
+          "package_name": "com.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811854327889-melkk8mbe3cb8fdgjb3muinlshtc8tp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmswhEHNCTvaQLyP-ClLtIfK5OuSGLWuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811854327889-melkk8mbe3cb8fdgjb3muinlshtc8tp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811854327889-f2pnlv2079cago46f5vbnrl45t6bmvi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appPesquisaFurb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
